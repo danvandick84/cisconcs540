@@ -1,0 +1,1 @@
+# ncs540l-golden-x64-7.3.2-NCS540LREV0
